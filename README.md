@@ -1,5 +1,8 @@
-### Hey there 👋 
+### Hey there 👋 My Name is Raghul :wink:
+I'm a Front-End Web Developer :computer: Let's create awesome websites!
 
+### Tech Stack 
+[![Skills](https://skillicons.dev/icons?i=html,css,,react,materialui,,nextjs,tailwindcss,,js,typescript)](https://skillicons.dev)
 <!--
 **Raghul12354/Raghul12354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
