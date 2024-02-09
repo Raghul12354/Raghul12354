@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋 
 
 <!--
 **Raghul12354/Raghul12354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
