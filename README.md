@@ -1,5 +1,5 @@
 ### Hey there 👋 My Name is Raghul :wink:
-I'm a Front-End Web Developer :computer: Let's create awesome websites!
+I'm a Web Developer :computer: Let's create awesome websites!
 
 ### Tech Stack 
 [![Skills](https://skillicons.dev/icons?i=html,css,,react,materialui,,nextjs,tailwindcss,,js,typescript)](https://skillicons.dev)
