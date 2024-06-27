@@ -1,5 +1,5 @@
 ### Hey there 👋 My Name is Raghul :wink:
-I'm a Web Developer :computer: Let's create awesome websites!
+I'm a Junior Web Developer :computer: passionate about creating websites and exploring different technologies. I enjoy working on fun projects and am always ready to collaborate with others
 
 ### Tech Stack 
 [![Skills](https://skillicons.dev/icons?i=html,css,,react,materialui,,nextjs,tailwindcss,,js,typescript)](https://skillicons.dev)
