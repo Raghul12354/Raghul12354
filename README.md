@@ -1,9 +1,9 @@
 ### Hey there 👋 My Name is Raghul :wink:
-I'm a Junior Web Developer :computer: passionate about creating websites and exploring different technologies. 
-I enjoy working on fun projects and am always ready to collaborate with others
+I'm a Web Developer 💻. I build web apps, enjoy exploring new technologies, and like working on personal projects. I also enjoy collaborating with other developers to learn and grow.
 
 ### Tech Stack 
-[![Skills](https://skillicons.dev/icons?i=html,css,,react,materialui,,nextjs,tailwindcss,,js,typescript)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,,js,typescript,,nextjs,tailwindcss,,react,materialui,,mysql,linux)](https://skillicons.dev)
+
 <!--
 **Raghul12354/Raghul12354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
