@@ -1,8 +1,8 @@
-### Hey there 👋 My Name is Raghul :wink:
-I'm a Web Developer 💻. I build web apps, enjoy exploring new technologies, and like working on personal projects. I also enjoy collaborating with other developers to learn and grow.
+### Hey 👋 I'm Raghul Krishna :wink:
+I build web apps, mostly with Next.js and TypeScript, and I like trying out new tech whenever something catches my eye. Always tinkering with a side project or two.
 
-### Tech Stack 
-[![Skills](https://skillicons.dev/icons?i=html,css,,js,typescript,,nextjs,tailwindcss,,react,materialui,,mysql,linux)](https://skillicons.dev)
+### What I work with
+[![Next.js, TypeScript, React, Tailwind CSS, Node.js, MySQL, Docker, Nginx, Linux, Git](https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,mysql,docker,nginx,linux,git)](https://skillicons.dev)
 
 <!--
 **Raghul12354/Raghul12354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
